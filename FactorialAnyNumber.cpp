@@ -78,6 +78,6 @@ int main()
     }
     else
     {
-        cout<<"kya enter kar raha hai laudu"<<endl;
+        cout<<"Stupid entry: Go Die"<<endl;
     }
 }
